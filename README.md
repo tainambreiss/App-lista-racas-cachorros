@@ -36,3 +36,4 @@ A aplicação utiliza a Dog CEO API, acessível pelos seguintes endpoints:
 
 Listagem de Raças: https://dog.ceo/api/breeds/list/all
 Imagens Aleatórias por Raça: https://dog.ceo/api/breed/{breed}/images/random/4
+feat: corrigindo mensagem de coautoria para selo Pair Extraordinaire
